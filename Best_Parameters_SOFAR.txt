@@ -1,0 +1,33 @@
+LVQ 1: 
+	-Best Acc: 0.896
+	-Learning Rate: 0.1
+	-Codebook Vector Count: 30
+	-Epochs: 60
+	-Decay: On, 0.93
+
+LVQ 2: 
+	-Best Acc: 0.901
+	-Learning Rate: 0.0145
+	-Codebook Vector Count: 30
+	-Epochs: 15
+	-Decay: On, 0.99
+	-Window: 0.3
+
+LVQ 3:
+	-Best Acc: 0.901
+	-Learning Rate: 0.05
+	-Codebook Vector Count: 30
+	-Epochs: 75
+	-Decay: On, 0.95
+	-Window: 0.3
+	-Epsilon: 0.3
+
+
+(FULL SET 60K + 10K)
+LVQ 2:
+	-Best Acc: 0.9672297
+	-Learning Rate: 0.0145
+	-Codebook Vector Count: 600
+	-Epochs: 10
+	-Decay: On, 0.99
+	-Window: 0.2

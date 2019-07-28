@@ -1,0 +1,75 @@
+C:\Users\Magnus\source\repos\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.exe.config
+C:\Users\Magnus\source\repos\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.exe
+C:\Users\Magnus\source\repos\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.pdb
+C:\Users\Magnus\source\repos\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csprojAssemblyReference.cache
+C:\Users\Magnus\source\repos\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.Form1.resources
+C:\Users\Magnus\source\repos\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.Properties.Resources.resources
+C:\Users\Magnus\source\repos\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.GenerateResource.cache
+C:\Users\Magnus\source\repos\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.CoreCompileInputs.cache
+C:\Users\Magnus\source\repos\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.exe
+C:\Users\Magnus\source\repos\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.pdb
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.exe
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.pdb
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csprojAssemblyReference.cache
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.Form1.resources
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.Properties.Resources.resources
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.GenerateResource.cache
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.CoreCompileInputs.cache
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.exe.config
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.exe
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.pdb
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Magnus\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.CopyComplete
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.exe.config
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.exe
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.pdb
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.Form1.resources
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.Properties.Resources.resources
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.GenerateResource.cache
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.CopyComplete
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.exe
+C:\Users\Gokce\Desktop\New folder\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.pdb
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csprojAssemblyReference.cache
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.Form1.resources
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.Properties.Resources.resources
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.GenerateResource.cache
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.CoreCompileInputs.cache
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.exe
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.pdb
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.exe.config
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.exe
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.pdb
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Magnus\Desktop\Yeni klasör (2)\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.CopyComplete
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.exe.config
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.exe
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.pdb
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.Form1.resources
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.Properties.Resources.resources
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.GenerateResource.cache
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.CopyComplete
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.exe
+C:\Users\Gokce\Desktop\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.pdb
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.exe.config
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.exe
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\bin\Debug\LVQforMNIST.pdb
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csprojAssemblyReference.cache
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.Form1.resources
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.Properties.Resources.resources
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.GenerateResource.cache
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.CoreCompileInputs.cache
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.csproj.CopyComplete
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.exe
+C:\Users\Magnus\Desktop\son\LVQforMNIST\LVQforMNIST\obj\Debug\LVQforMNIST.pdb
